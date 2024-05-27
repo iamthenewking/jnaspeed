@@ -13,17 +13,9 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://www.zachleat.com/",
-		"https://www.zachleat.com/about/",
-		"https://www.zachleat.com/web/",
-		"https://www.zachleat.com/web/fonts/",
-		"https://www.zachleat.com/web/eleventy/",
-		"https://www.zachleat.com/resume/",
-		"https://www.zachleat.com/twitter/",
-		// Popular Posts
-		"https://www.zachleat.com/web/lighthouse-in-footer/",
-		"https://www.zachleat.com/web/speedlify/",
-		"https://www.zachleat.com/web/comprehensive-webfonts/",
-		"https://www.zachleat.com/web/google-fonts-display/",
+		"https://www.jnadealerprogram.com",
+		"https://jna.org/",
+		"https://wowmover.com/",
+
 	]
 };
